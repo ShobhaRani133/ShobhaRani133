@@ -1,8 +1,9 @@
 - 👋 Hi, I’m ShobhaRani
+- front-end developer
 - 👀 skills python,java,mysql ,html,css,bootstrap,javascript
 .
 - 💞️ 😄 Pronouns: she/her
-- 📫 contect with me
+- 📫 contect with me 
 - https://www.linkedin.com/in/chinnakotlashobharani/
 - 
 
